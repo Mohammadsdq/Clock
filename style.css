@@ -1,0 +1,23 @@
+/* font */
+@import url('https://fonts.googleapis.com/css2?family=Mouse+Memoirs&family=Wallpoet&display=swap');
+
+
+body {
+    background-color: rgb(66, 66, 66);
+}
+
+.clock-area {
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 80px;
+}
+
+.clock-area input {
+    text-align: center;
+    width: 450px;
+    font-size: 80px;
+    outline: none;
+    font-family: 'Wallpoet', 'Mouse Memoirs', sans-serif;
+    background-color: rgba(198, 40, 40, 0.8);
+    border-radius: 7px;
+}
